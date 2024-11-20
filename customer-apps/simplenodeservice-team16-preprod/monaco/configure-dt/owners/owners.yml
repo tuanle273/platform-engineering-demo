@@ -1,0 +1,24 @@
+configs:
+- id: team16
+  type:
+    settings:
+      schema: builtin:ownership.teams
+      scope: environment
+  config:
+    name: team16
+    template: appteam.json
+    parameters:
+      descr: Team Detroit Lions GO GO GO
+      team_id: team16
+      development: true
+      security: false
+      operations: true
+      infrastructure: false
+      lineOfBusiness: false
+      slackChannel: somewhere
+      slackURL: https://somewhere.slack.com/archives/team16
+      email: team01@example.com
+      addInfoKey: costcode
+      addInfoValue: team16
+      addInfoUrl: https://example.com/team16
+    skip: false
