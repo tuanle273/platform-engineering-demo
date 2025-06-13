@@ -10,7 +10,7 @@ metadata:
     - url: https://www.dynatrace.com/trial
       title: Dynatrace Trial
       icon: docs
-    - url: https://github.com/grabnerandi/simplenodeservice
+    - url: https://github.com/tuanle273/simplenodeservice
       title: simplenodeservice on GitHub
       icon: search
 spec:
