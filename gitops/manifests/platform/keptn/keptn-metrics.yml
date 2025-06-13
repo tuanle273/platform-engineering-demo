@@ -5,7 +5,7 @@ metadata:
   namespace: keptn
 spec:
   type: dynatrace
-  targetServer: "https://hci34192.live.dynatrace.com"
+  targetServer: "https://pse44217.live.dynatrace.com"
   secretKeyRef:
     name: dt-metrics-read-token
     key: DT_TOKEN
