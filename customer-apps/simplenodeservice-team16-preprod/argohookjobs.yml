@@ -30,7 +30,7 @@
 #              \"stage\": \"preprod\", 
 #              \"owner\":\"team16\", 
 #              \"git\" : \"https://github.com/tuanle273/platform-engineering-demo.git\",
-#              \"argocd\" : \"https://fuzzy-barnacle-7669p46vxc997-30100.app.github.dev/applications/argocd/simplenodeservice-team16-preprod\",
+#              \"argocd\" : \"https://miniature-invention-r6jx6r46xwph5jj-30100.app.github.dev/applications/argocd/simplenodeservice-team16-preprod\",
 #              \"result\": \"success\" 
 #           }"
 #         ]
@@ -88,7 +88,7 @@
 #              \"stage\": \"preprod\", 
 #              \"owner\":\"team16\", 
 #              \"git\" : \"https://github.com/tuanle273/platform-engineering-demo.git\",
-#              \"argocd\" : \"https://fuzzy-barnacle-7669p46vxc997-30100.app.github.dev/applications/argocd/simplenodeservice-team16-preprod\",
+#              \"argocd\" : \"https://miniature-invention-r6jx6r46xwph5jj-30100.app.github.dev/applications/argocd/simplenodeservice-team16-preprod\",
 #              \"result\": \"success\" 
 #           }"
 #         ]
@@ -146,7 +146,7 @@
 #              \"stage\": \"preprod\", 
 #              \"owner\":\"team16\", 
 #              \"git\" : \"https://github.com/tuanle273/platform-engineering-demo.git\",
-#              \"argocd\" : \"https://fuzzy-barnacle-7669p46vxc997-30100.app.github.dev/applications/argocd/simplenodeservice-team16-preprod\",
+#              \"argocd\" : \"https://miniature-invention-r6jx6r46xwph5jj-30100.app.github.dev/applications/argocd/simplenodeservice-team16-preprod\",
 #              \"result\": \"success\" 
 #           }"
 #         ]
@@ -204,7 +204,7 @@
 #              \"stage\": \"preprod\", 
 #              \"owner\":\"team16\", 
 #              \"git\" : \"https://github.com/tuanle273/platform-engineering-demo.git\",
-#              \"argocd\" : \"https://fuzzy-barnacle-7669p46vxc997-30100.app.github.dev/applications/argocd/simplenodeservice-team16-preprod\",
+#              \"argocd\" : \"https://miniature-invention-r6jx6r46xwph5jj-30100.app.github.dev/applications/argocd/simplenodeservice-team16-preprod\",
 #              \"result\": \"failed\" 
 #           }"          
 #         ]
