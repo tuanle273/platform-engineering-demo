@@ -32,11 +32,11 @@ spec:
 apiVersion: backstage.io/v1alpha1
 kind: User
 metadata:
-  name: agardner
+  name: tuanle273
 spec:
   profile:
-    displayName: Adam Gardner
-    email: adam.gardner@dynatrace.com
+    displayName: tuanle273
+    email: tuanla123@fpt.com
     picture: https://raw.githubusercontent.com/cncf/people/main/images/adamgardner.jpg
   memberOf: [platform]
 ---
@@ -46,7 +46,7 @@ metadata:
   name: agrabner
 spec:
   profile:
-    displayName: Andreas Grabner
-    email: andreas.grabner@dynatrace.com
+    displayName: tuanle273
+    email: tuanla123@fpt.com
     picture: https://raw.githubusercontent.com/cncf/people/main/images/andreas-grabner.jpg
   memberOf: [platform]

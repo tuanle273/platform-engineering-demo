@@ -2,7 +2,7 @@
 
 **Got feedback? We welcome contributions and feedback. Create an issue or email devrel@dynatrace.com**
 
-**Kudos go to Adam Gardner ([@agardnerIT](https://github.com/agardnerIT)) for doing most of the technical work and Katharina Sick ([@katharinasick](https://github.com/katharinasick)) for her help with Backstage.**
+**Kudos go to TuanLA ([@agardnerIT](https://github.com/agardnerIT)) for doing most of the technical work and Katharina Sick ([@katharinasick](https://github.com/katharinasick)) for her help with Backstage.**
 
 **Watch a full demo** and more on YouTube as part of [Observability Guide for Platform Engineering - Part 2](https://www.youtube.com/watch?v=YPyRg3Mso6g)
 
