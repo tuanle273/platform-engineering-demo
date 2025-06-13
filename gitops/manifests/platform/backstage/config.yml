@@ -97,8 +97,8 @@ data:
         - type: 'config'
           instances:
             - name: argocd
-              url: https://${BASE_DOMAIN}-30100.app.github.dev
-              token: ${ARGOCD_TOKEN}
+              url: https://miniature-invention-r6jx6r46xwph5jj-30100.app.github.dev
+              token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJhcmdvY2QiLCJzdWIiOiJhbGljZTphcGlLZXkiLCJuYmYiOjE3NDk4MDg4MzcsImlhdCI6MTc0OTgwODgzNywianRpIjoiNjZkOTM3OTItYzA4Mi00NjQ2LThkOTEtZDhmZTY2MDZiYjYyIn0.AKafx3MPDA9DbtsUVse1OI6EC6sQlLxYphs0AlKK7aA
               
     # See https://backstage.io/docs/features/kubernetes/configuration
     kubernetes:
