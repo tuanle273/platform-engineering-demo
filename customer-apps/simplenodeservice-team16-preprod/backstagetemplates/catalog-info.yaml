@@ -11,7 +11,7 @@ metadata:
     'backstage.io/kubernetes-namespace': 'simplenodeservice-team16-preprod'
     argocd/app-name: simplenodeservice-team16-preprod
   links:
-    - url: https://github.com/grabnerandi/platform-engineering-demo.git
+    - url: https://github.com/tuanle273/platform-engineering-demo.git
       title: Github Repo
       icon: github
     - url: https://fuzzy-barnacle-7669p46vxc997-80.app.github.dev/simplenodeservice-team16-preprod

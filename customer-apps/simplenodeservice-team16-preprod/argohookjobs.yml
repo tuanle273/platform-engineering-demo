@@ -29,7 +29,7 @@ spec:
              \"proj_name\": \"simplenodeservice\",
              \"stage\": \"preprod\", 
              \"owner\":\"team16\", 
-             \"git\" : \"https://github.com/grabnerandi/platform-engineering-demo.git\",
+             \"git\" : \"https://github.com/tuanle273/platform-engineering-demo.git\",
              \"argocd\" : \"https://fuzzy-barnacle-7669p46vxc997-30100.app.github.dev/applications/argocd/simplenodeservice-team16-preprod\",
              \"result\": \"success\" 
           }"
@@ -87,7 +87,7 @@ spec:
              \"proj_name\": \"simplenodeservice\",
              \"stage\": \"preprod\", 
              \"owner\":\"team16\", 
-             \"git\" : \"https://github.com/grabnerandi/platform-engineering-demo.git\",
+             \"git\" : \"https://github.com/tuanle273/platform-engineering-demo.git\",
              \"argocd\" : \"https://fuzzy-barnacle-7669p46vxc997-30100.app.github.dev/applications/argocd/simplenodeservice-team16-preprod\",
              \"result\": \"success\" 
           }"
@@ -145,7 +145,7 @@ spec:
              \"proj_name\": \"simplenodeservice\",
              \"stage\": \"preprod\", 
              \"owner\":\"team16\", 
-             \"git\" : \"https://github.com/grabnerandi/platform-engineering-demo.git\",
+             \"git\" : \"https://github.com/tuanle273/platform-engineering-demo.git\",
              \"argocd\" : \"https://fuzzy-barnacle-7669p46vxc997-30100.app.github.dev/applications/argocd/simplenodeservice-team16-preprod\",
              \"result\": \"success\" 
           }"
@@ -203,7 +203,7 @@ spec:
              \"proj_name\": \"simplenodeservice\",
              \"stage\": \"preprod\", 
              \"owner\":\"team16\", 
-             \"git\" : \"https://github.com/grabnerandi/platform-engineering-demo.git\",
+             \"git\" : \"https://github.com/tuanle273/platform-engineering-demo.git\",
              \"argocd\" : \"https://fuzzy-barnacle-7669p46vxc997-30100.app.github.dev/applications/argocd/simplenodeservice-team16-preprod\",
              \"result\": \"failed\" 
           }"          
